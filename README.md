@@ -6,3 +6,4 @@ Relax Assumption
 Log Transformation
 Create Model
 Create Dummies
+Test and Train
